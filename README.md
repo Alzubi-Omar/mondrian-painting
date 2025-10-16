@@ -8,14 +8,14 @@ This project demonstrates how to use CSS Grid for layout precision, color balanc
 
 ## 📸 Live Demo
 
-👉 **[View on GitHub Pages]()**  
+👉 **[View on GitHub Pages](https://alzubi-omar.github.io/mondrian-painting/)**  
 
 
 ---
 
 ## 🖼️ Screenshot
 
-![Preview of the Mondrian Painting Project](img/screenshot.png)
+![Preview of the Mondrian Painting Project](images/screenshot.png)
 
 ---
 

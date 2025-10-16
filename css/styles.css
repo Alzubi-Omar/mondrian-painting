@@ -1,0 +1,88 @@
+*  {
+    box-sizing: border-box;
+}
+
+html,body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #222;
+}
+
+.hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    border: 0;
+}
+
+/* layout */
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  min-height: calc(100vh - 100px);
+}
+
+.mondrian-grid {
+    display: grid;
+    width: min(90vw, 768px);
+    aspect-ratio: 1 / 1;
+    background-color: #000;
+    border: clamp(2px, 1vw, 10px) solid #e5e3e3;
+    gap: 9px;
+    grid-template-columns: 4.4fr 2.7fr 2.1fr 0.7fr;
+    grid-template-rows: 5.7fr 1.8fr 2.1fr 0.3fr;
+}
+
+/* colors */
+.cell {
+  background-color: #f0f1ec;
+}
+
+.red {
+  background-color: #e72f24;
+}
+
+.yellow {
+  background-color: #f9d01e;
+}
+
+.blue {
+  background-color: #004592;
+}
+
+/* grid */
+.span-2 {
+  grid-column: span 2;
+}
+
+.tall {
+  grid-row: span 2;
+}
+
+
+.large {
+    grid-column: span 2;
+    grid-row: span 2;
+    border: clamp(2px, 1vw, 10px) solid #000;
+}
+
+.wide {
+      grid-area: 4 / 3 / 5 / 5;
+
+}
+
+/* footer */
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  color: #96302b;
+  font-size: 0.95rem;
+  letter-spacing: 0.03em;
+}

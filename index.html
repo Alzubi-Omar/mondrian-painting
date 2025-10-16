@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A modern recreation of Piet Mondrian's abstract painting using CSS Grid." />
+    <title>Mondrian Painting</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="js/script.js" defer></script>
+  </head>
+
+  <body>
+    <!-- header -->
+    <header>
+      <h1 class="hidden">Mondrian Painting Project</h1>
+    </header>
+      <!-- main -->
+      <main>
+        <section class="mondrian-grid" role="img" aria-label="A grid artwork inspired by Piet Mondrian's composition of red, yellow, blue, and white rectangles bordered by black lines."
+        >
+          <div class="cell red"></div>
+          <div class="cell white"></div>
+          <div class="cell yellow span-2"></div>
+          <div class="cell white tall"></div>
+
+          <div class="cell blue large"></div>
+          <div class="cell red medium"></div>
+
+          <div class="cell yellow"></div>
+          <div class="cell yellow"></div>
+          <div class="cell red small"></div>
+          <div class="cell white wide"></div>
+        </section>
+      </main>
+      <!-- footer -->
+      <footer>
+        <p>&copy; <span id="year"></span> Creative Solutions by Omar.</p>
+      </footer>
+  </body>
+</html>

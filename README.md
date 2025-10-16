@@ -51,12 +51,11 @@ mondrian-painting/
    ```bash
    git clone https://github.com/alzubi-omar/mondrian-painting.git
    cd mondrian-painting
-```
+````
 
 2. Open the index.html file directly in your web browser.
 
 That’s it! 🎉 You’ll see a Mondrian-inspired grid painting appear on the screen.
-
 
 ---
 

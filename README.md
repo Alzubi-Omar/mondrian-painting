@@ -1,4 +1,3 @@
-```markdown
 # 🎨 Mondrian Painting with CSS Grid
 
 A modern recreation of **Piet Mondrian’s abstract painting** — built entirely using **HTML5** and **CSS Grid**.  
@@ -8,12 +7,12 @@ This project demonstrates how to use CSS Grid for layout precision, color balanc
 
 ## 📸 Live Demo
 
-👉 **[View on GitHub Pages](https://alzubi-omar.github.io/mondrian-painting/)**  
+[View on GitHub Pages](https://alzubi-omar.github.io/mondrian-painting/)
 
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Preview
 
 ![Preview of the Mondrian Painting Project](images/screenshot.png)
 
@@ -91,6 +90,5 @@ you’re free to use, modify, and share it for personal or educational purposes.
 Creative Solutions by Omar
 © 2025 Creative Solutions by Omar. All rights reserved.
 
-```
 
 ---

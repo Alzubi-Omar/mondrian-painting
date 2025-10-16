@@ -45,6 +45,9 @@ mondrian-painting/
 
 ---
 
+Sure! Here's the fixed version with proper Markdown syntax, including the correct closing of the code block and consistent formatting:
+
+````markdown
 ## 💻 How to View Locally
 
 1. **Clone or download** the repository:
@@ -53,7 +56,7 @@ mondrian-painting/
    cd mondrian-painting
 ````
 
-2. Open the index.html file directly in your web browser.
+2. Open the `index.html` file directly in your web browser.
 
 That’s it! 🎉 You’ll see a Mondrian-inspired grid painting appear on the screen.
 
@@ -89,5 +92,6 @@ you’re free to use, modify, and share it for personal or educational purposes.
 Creative Solutions by Omar
 © 2025 Creative Solutions by Omar. All rights reserved.
 
-
 ---
+
+````

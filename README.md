@@ -89,7 +89,7 @@ you’re free to use, modify, and share it for personal or educational purposes.
 ## 👨‍🎨 Author
 
 **Omar**
-Creative Solutions by Omar
+
 © 2025 Creative Solutions by Omar. All rights reserved.
 
 ---
